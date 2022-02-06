@@ -1,2 +1,2 @@
 # desmath
-Design Mathematics
+Design mathematics experiments 
